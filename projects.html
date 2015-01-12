@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/project.css" >
+    <link rel="stylesheet" type="text/css" href="css/component.css">
+    <link rel="stylesheet" type="text/css" href="css/fullPage.css" >
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/fullPage.js" ></script>
+    <script type="text/javascript" src="js/slimscroll.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+                anchors: ['sunflower', 'plany', 'fantasy', 'stp', 'thesis', 'timetracks'],
+                navigation: true,
+                navigationPosition: 'right'
+            });
+        });
+    </script>
+    <title>Projects</title>
+</head>
+<body>
+    <a class="back-project" href="home.html"> < HOME</a>
+
+    <div id="fullpage">
+        <div class="section" id="section1">
+            <h2>Sunflower NLP-C</h2>
+            <p>A product of PIXNet hackathon Taiwan. I utilized the Stanford Chinese Segmenter to tokenize PIXNet blog
+                data from their API. I grouped words and phrases, with the hope of quantifying political beliefs in the
+                Taiwanese blogosphere. My development stack was a Jython NLP to a mongoDB backend, which was to be
+                curated and pushed to an AJAX-style database.</p>
+        </div>
+        <div class="section" id="section2">
+            <h2>Plany</h2>
+            <p>I worked for a startup in Taiwan as an Android developer for a social scheduling app. We sought to
+                circumvent the problem of setting a date amongst a large of group of people; the app or program would do
+                that for you. I worked on the front-end and back-end of the app, but also dabbled in technologies like
+                Google Wallet and Maps.</p>
+        </div>
+        <div class="section" id="section3">
+            <h2>Fantasy Basketball</h2>
+            <p>I also play fantasy basketball fanatically. I've also created automated tools (mostly in python +
+                mongoDB, but also a little in Go) to help me draft, trade, and pick players off the waiver. I usually
+                play at least one public league a year which I only go by my program's decisions. See if you can beat
+                me! I'm found <a href="http://basketball.fantasysports.yahoo.com/nba/105300">here</a></p>
+        </div>
+        <div class="section" id="section4">
+            <h2>Stock Target Prices</h2>
+            <p>A small side project in data scraping and devops. I'm assisting the co-founder in extending the core
+                services, back-populating historical stock prices to be referenced with analyst's recommendations.
+                I'm working with Python + Django, along with boto to utilize AWS services.</p>
+        </div>
+        <div class="section" id="section5">
+            <h2>Undergraduate Thesis</h2>
+            <p>Under the supervision of Prof. Ken Jackson, I investigated numerically solving stochastic differential
+                equations. I looked into finite difference and finite element methods on the Black-Scholes equation
+                for multi-factor bonds. With an eye on processor limits, I also implemented various adaptive meshing
+                methods to save processing time and memory.</p>
+        </div>
+        <div class="section" id="section6">
+            <h2>TimeTracks</h2>
+            <p>A product of AngelHacks NYC, 2013. Myself and 4 other friends sought to fill a need amongst construction
+                contractors. We built an Android app to leverage the GPS capabilities on a smartphone. Much like Google
+                Fit now, it would track a user's location over the course of the work day automatically generate a
+                timesheet at the end of the week; it would only require location tagging from the user. I was
+                responsible for the Google Maps UI, and for aggregating locations.</p>
+        </div>
+
+
+    </div>
+
+</body>
+</html>

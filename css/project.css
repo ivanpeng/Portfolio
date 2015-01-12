@@ -1,0 +1,109 @@
+h1 {
+    font-size: 5em;
+    font-family: 'PT Sans', Calibri, Arial, sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+/* Centered texts in each section
+* --------------------------------------- */
+.section {
+    text-align: center;
+    color: #ecf0f1;
+}
+.section p {
+    text-align: justify;
+}
+.section a:link {
+    color: #c0c0c0;
+}
+.section a:visited{
+    color: coral;
+}
+
+#section5 {
+}
+
+/* Backgrounds will cover all the section
+* --------------------------------------- */
+#section1,
+#section2,
+#section3,
+#section4,
+#section5,
+#section6{
+    padding: 0 12%;
+    background-size: cover;
+}
+
+/* Defining each section background and styles
+* --------------------------------------- */
+#section1 {
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.3),
+            rgba(0, 0, 0, 0.3)
+        ),
+        url("../media/images/sunflower.jpg");
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 0 12% 0 40%;
+
+}
+
+#section2 {
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+        ),
+        url(../media/images/plany_image.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 0 12% 0 40%;
+
+}
+
+#section3 {
+    background:
+        linear-gradient(
+                rgba(0, 0, 0, 0.3),
+                rgba(0, 0, 0, 0.3)
+        ),
+        #34495e;
+}
+
+#section4{
+    background:
+    linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+    ),
+    url(../media/images/stp_image.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#section5 {
+    background:
+    linear-gradient(
+            rgba(0, 0, 0, 0.6),
+            rgba(0, 0, 0, 0.6)
+    ),
+    url(../media/images/digital2d.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 0 12% 0 50%;
+}
+#section6{
+    background:
+    linear-gradient(
+            rgba(0, 0, 0, 0.5),
+            rgba(0, 0, 0, 0.5)
+    ),
+    url(../media/images/timetracks_logo.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 0 52% 0 9%;
+}
