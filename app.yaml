@@ -1,0 +1,48 @@
+application: portfolio-ivanpeng
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /
+  static_files: home.html
+  upload: home.html
+
+- url: /home.html
+  static_files: home.html
+  upload: home.html
+  
+- url: /index.html
+  static_files: home.html
+  upload: home.html
+
+- url: /projects
+  static_files: projects.html
+  upload: projects.html
+
+- url: /projects.html
+  static_files: projects.html
+  upload: projects.html
+
+- url: /media/images
+  static_dir: media/images
+
+- url: /media/fonts
+  static_dir: media/fonts
+  
+# Get the fonts
+- url: /media/font/(.*\.(ico$|jpg$|png$|gif$|eot$|svg$|ttf$|woff$))
+  static_files: media/font/\1
+  upload: media/font/(.*\.(ico$|jpg$|png$|gif$|eot$|svg$|ttf$|woff$))
+  application_readable: true
+
+- url: /css
+  static_dir: css
+
+- url: /js
+  static_dir: js
+  
+libraries:
+  - name: webapp2
+    version: latest
