@@ -9,6 +9,7 @@ h1 {
 /* Centered texts in each section
 * --------------------------------------- */
 .section {
+    font-family: 'PT Sans', Calibri, Arial, sans-serif;
     text-align: center;
     color: #ecf0f1;
 }
@@ -16,7 +17,8 @@ h1 {
     text-align: justify;
 }
 .section a:link {
-    color: #c0c0c0;
+    text-decoration: none;
+    color: #CAFFDF;
 }
 .section a:visited{
     color: coral;
@@ -39,6 +41,7 @@ h1 {
 
 /* Defining each section background and styles
 * --------------------------------------- */
+/* Sunflower */
 #section1 {
     background:
         linear-gradient(
@@ -52,7 +55,7 @@ h1 {
     padding: 0 12% 0 40%;
 
 }
-
+/* Plany */
 #section2 {
     background:
         linear-gradient(
@@ -65,7 +68,7 @@ h1 {
     padding: 0 12% 0 40%;
 
 }
-
+/* Fantasy Basketball */
 #section3 {
     background:
         linear-gradient(
@@ -74,7 +77,7 @@ h1 {
         ),
         #34495e;
 }
-
+/* Stock target prices */
 #section4{
     background:
     linear-gradient(
@@ -83,8 +86,10 @@ h1 {
     ),
     url(../media/images/stp_image.PNG);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: 85% 50%;
+    padding: 0 60% 0 12%;
 }
+/* Undergraduate thesis */
 #section5 {
     background:
     linear-gradient(
@@ -96,6 +101,7 @@ h1 {
     background-position: left;
     padding: 0 12% 0 50%;
 }
+/* Timetracks */
 #section6{
     background:
     linear-gradient(

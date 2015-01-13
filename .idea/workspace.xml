@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bae3822b-17c2-4429-ae14-b3ad6e23fc19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Portfolio/media/font/Entypo-Social.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Portfolio/media/font/Entypo.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Portfolio/app.yaml" />
-      <change type="MOVED" beforePath="C:\Users\Ivan\WebstormProjects\Portfolio\media\font\entypo-social.ttf" afterPath="$PROJECT_DIR$/../Portfolio/media/font/Entypo-Social.ttf" />
-      <change type="MOVED" beforePath="C:\Users\Ivan\WebstormProjects\Portfolio\media\font\entypo.ttf" afterPath="$PROJECT_DIR$/../Portfolio/media/font/Entypo.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/media/images/stp_image.PNG" afterPath="$PROJECT_DIR$/../Portfolio/media/images/stp_image.PNG" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/css/component.css" afterPath="$PROJECT_DIR$/../Portfolio/css/component.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/css/entypo.css" afterPath="$PROJECT_DIR$/../Portfolio/css/entypo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/home.html" afterPath="$PROJECT_DIR$/../Portfolio/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/css/project.css" afterPath="$PROJECT_DIR$/../Portfolio/css/project.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/projects.html" afterPath="$PROJECT_DIR$/../Portfolio/projects.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Portfolio/.idea/workspace.xml" />
     </list>
     <ignored path="MyFirstWebProject.iws" />
@@ -36,28 +34,18 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Portfolio/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="1071">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+            <state vertical-scroll-proportion="-17.653847" vertical-offset="204" max-vertical-offset="1071">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entypo.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Portfolio/css/entypo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25164473" vertical-offset="0" max-vertical-offset="5882">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="project.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Portfolio/css/project.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1194" max-vertical-offset="1955">
-              <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.6430921" vertical-offset="0" max-vertical-offset="2057">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -66,8 +54,8 @@
       <file leaf-file-name="projects.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Portfolio/projects.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1394">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state vertical-scroll-proportion="-12.363636" vertical-offset="221" max-vertical-offset="1394">
+              <caret line="53" column="64" selection-start-line="53" selection-start-column="64" selection-end-line="53" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -76,8 +64,8 @@
       <file leaf-file-name="component.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Portfolio/css/component.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2703">
-              <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2703">
+              <caret line="152" column="22" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -111,12 +99,13 @@
         <option value="$PROJECT_DIR$/css/component.css" />
         <option value="$PROJECT_DIR$/projects.html" />
         <option value="$PROJECT_DIR$/css/project.css" />
-        <option value="$PROJECT_DIR$/../Portfolio/css/project.css" />
         <option value="$PROJECT_DIR$/../Portfolio/css/demo.css" />
         <option value="$PROJECT_DIR$/../Portfolio/css/normalize.css" />
-        <option value="$PROJECT_DIR$/../Portfolio/css/component.css" />
-        <option value="$PROJECT_DIR$/../Portfolio/home.html" />
         <option value="$PROJECT_DIR$/../Portfolio/css/entypo.css" />
+        <option value="$PROJECT_DIR$/../Portfolio/home.html" />
+        <option value="$PROJECT_DIR$/../Portfolio/css/component.css" />
+        <option value="$PROJECT_DIR$/../Portfolio/projects.html" />
+        <option value="$PROJECT_DIR$/../Portfolio/css/project.css" />
       </list>
     </option>
   </component>
@@ -181,28 +170,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="media" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -326,7 +293,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421070824884</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Reformatting font faces. Added Google App Engine capability with app.yaml">
+      <created>1421141781619</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1421141782050</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -372,7 +345,8 @@
     <MESSAGE value="Initial commit. Should be standalone." />
     <MESSAGE value="Fixed background." />
     <MESSAGE value="Forgot to git add image." />
-    <option name="LAST_COMMIT_MESSAGE" value="Forgot to git add image." />
+    <MESSAGE value="Reformatting font faces. Added Google App Engine capability with app.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatting font faces. Added Google App Engine capability with app.yaml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -581,42 +555,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Portfolio/css/project.css">
+    <entry file="file://$PROJECT_DIR$/../Portfolio/css/entypo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1194" max-vertical-offset="1955">
-          <caret line="83" column="22" selection-start-line="83" selection-start-column="22" selection-end-line="83" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Portfolio/css/component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1122" max-vertical-offset="2703">
-          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Portfolio/projects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="1394">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.25164473" vertical-offset="0" max-vertical-offset="5882">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Portfolio/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.384615" vertical-offset="102" max-vertical-offset="1071">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state vertical-scroll-proportion="-17.653847" vertical-offset="204" max-vertical-offset="1071">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Portfolio/css/entypo.css">
+    <entry file="file://$PROJECT_DIR$/../Portfolio/projects.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25164473" vertical-offset="0" max-vertical-offset="5882">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state vertical-scroll-proportion="-12.363636" vertical-offset="221" max-vertical-offset="1394">
+          <caret line="53" column="64" selection-start-line="53" selection-start-column="64" selection-end-line="53" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Portfolio/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2703">
+          <caret line="152" column="22" selection-start-line="152" selection-start-column="22" selection-end-line="152" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Portfolio/css/project.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6430921" vertical-offset="0" max-vertical-offset="2057">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding />
         </state>
       </provider>
